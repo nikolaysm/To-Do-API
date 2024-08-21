@@ -23,7 +23,7 @@ This repository is a practice project for exploring and learning .NET technologi
 1. **Clone the repository:**
 
     ```sh
-    git clone https://github.com/nikolaysm/dotnet-practice-repo.git
+    git clone https://github.com/nikolaysm/dotnet-practice-todoapi.git
     ```
 
 2. **Navigate to the project directory:**
@@ -50,7 +50,7 @@ This repository is a practice project for exploring and learning .NET technologi
     dotnet run
     ```
 
-   - By default, the application will run on `http://localhost:5000`.
+   - By default, the application will run on `http://localhost:5050`.
 
 ## Usage
 
